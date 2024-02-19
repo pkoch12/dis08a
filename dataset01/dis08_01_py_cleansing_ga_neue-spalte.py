@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Pfad zur CSV-Datei
-pfad_zur_datei = 'G:/Meine Ablage/Studium/Pätsch/Vorlesung/DIS08 - Data-Modelling/Daten/Gewerbeanzeigenstatistik_bereinigt_utf-8.csv'
+pfad_zur_datei = 'G:/Meine Ablage/Studium/Pätsch/Vorlesung/DIS08 - Data-Modelling/Daten/dis08_01_in_Gewerbeanzeigenstatistik_bereinigt_utf-8.csv'
 
 # Lese die CSV-Datei
 df = pd.read_csv(pfad_zur_datei, sep=';', header=None, names=['Bundesland', 'Gewerbeanmeldungen'], encoding='utf-8')
@@ -31,7 +31,7 @@ for index, row in df.iterrows():
 neuer_df = pd.DataFrame(aktualisierte_daten, columns=['Jahreszahl', 'Bundesland', 'Gewerbeanmeldungen'])
 
 # Pfad für die Ausgabedatei
-ausgabe_pfad = 'G:/Meine Ablage/Studium/Pätsch/Vorlesung/DIS08 - Data-Modelling/Daten/Gewerbeanzeigenstatistik_bereinigt_clean.csv'
+ausgabe_pfad = 'G:/Meine Ablage/Studium/Pätsch/Vorlesung/DIS08 - Data-Modelling/Daten/dis08_01_out_Gewerbeanzeigenstatistik_bereinigt_utf-8.csv'
 
 # Speichere den aktualisierten DataFrame in einer neuen CSV-Datei
 neuer_df.to_csv(ausgabe_pfad, index=False, sep=';', encoding='utf-8')

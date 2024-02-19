@@ -4,10 +4,19 @@
   
   **Matrikelnummer** 11138439
   
-  # Requirements
-  **r01** dataset found
-  
-  **r02** comparing data01 and data02
+## Analyse
+### Cleansing der Datensätze
+Im ersten Schritt sollen die Datensätze angeglichen werden um eine leichtere Vergleichbarkeit herzustellen. Dazu werden zwei unterschiedliche Programme verwendet.
+#### Datensatz 01 - Gewerbeanzeigenstatistik
+1. Datenbereinigung (**Issue Anlegen**)
 
-  # Additional Work
-  There were some Problems while openening the "man" Task. GitBash shows me an error-message: Command not found
+#### Datensatz 02 - Anteil der Bevölkerung mit Migrationsgeschichte
+1. Datenbereinigung [#9](https://github.com/pkoch12/dis08a/issues/9)
+2. Neue Datengrundlage (**Hier Link zum bereinigten Datensatz**)
+
+### Kombination der Datensätze
+
+## Ergebnisse
+
+## Fazit und Ausblick
+

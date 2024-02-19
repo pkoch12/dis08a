@@ -20,6 +20,7 @@ Vorliegend sind zwei Datensätze, einer beinhaltet die **Gewerbeanmeldungen von 
 - Installation von Python 3.11
 - Installation von Pandas
 - Installation von tkinter
+- Installation von matplotlib
 - Coding in Visual Studio
 
 # Lizenz

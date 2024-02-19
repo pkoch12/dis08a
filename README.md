@@ -8,8 +8,7 @@ Vorliegend sind zwei Datensätze, einer beinhaltet die Gewerbeanmeldungen von 20
 ### Ausgangsfrage
 **Mehr Unternehmensgründungen durch Migration?** - Gibt es einen statistischen Zusammenhang zwischen der Neugründungen von Gewerben und dem Anteil der Bevölkerung mit Migrationshintergrund?
 
-[Projektordner Datensatz 01](dataset01)
-[Projektordner Datensatz 02](dataset02)
+[Projektordner Datensatz 01](dataset01) | [Projektordner Datensatz 02](dataset02)
 
 # Webscraping
 [Teilaufgabe Webscraping](webscraping)

@@ -1,6 +1,21 @@
-# dis08a
+# dis08a - Projektordner
 Patrick Koch (11138439)
-My main motivation is to aquire skills that let me earn a lot of money in the future
+
+# Projektübersicht - Datenanalyse
+## Inhalt
+Vorliegend sind zwei Datensätze, einer beinhaltet die Gewerbeanmeldungen von 2011 bis 2019 nach Bundesländern und der andere zeigt den Anteil der Migranten von 2011 bis 2019 nach Bundesländern. Aufgabe der Analyse ist es, herauszufinden, ob diese beiden Entwicklungen einen statistischen Zusammenhang zeigen. Also ist es möglich eine Hypothese beim Vergleich der Daten zu erheben.
+
+### Ausgangsfrage
+**Mehr Unternehmensgründungen durch Migration?** - Gibt es einen statistischen Zusammenhang zwischen der Neugründungen von Gewerben und dem Anteil der Bevölkerung mit Migrationshintergrund?
+
+[Projektordner Datensatz 01](dataset01)
+[Projektordner Datensatz 02](dataset02)
+
+# Webscraping
+[Teilaufgabe Webscraping](webscraping)
+
+# Shell Skript
+[Teilaufgabe Shell Skript](shellscript)
 
 ## Installation und Setup
 - Installation von Python 3.11
